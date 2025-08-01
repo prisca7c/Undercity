@@ -1,6 +1,7 @@
 # Undercity
 
 A snow peashooter inspired by the video game Plants vs. Zombies. Turn on the shooter and watch the peas fly out!
+YT Link: https://www.youtube.com/watch?v=pfR8gcAVNlA
 
 
 ## Bill of Materials
