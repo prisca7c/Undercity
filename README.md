@@ -8,7 +8,8 @@ A snow peashooter inspired by the video game Plants vs. Zombies. Turn on the sho
 
 ---
 
-![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/83158df90883f2ccff74ac1295c1637d01854cb7_83158df90883f2ccff74ac1295c1637d01854cb7_img_2198.png)
+![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/ec0848b1ee13ad6145224811795387bd96a72782_screenshot_2025-08-01_at_10.04.33___pm.png)
+![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/3b5c93c9a5382334d7de017a60c849d9f15c4010_screenshot_2025-08-01_at_10.05.21___pm.png)
 
 
 ## Bill of Materials
